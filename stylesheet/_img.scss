@@ -1,0 +1,51 @@
+.head-credential {
+  padding: $small-spacing;
+}
+
+.logo-head {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: $small-spacing;
+  width: 20%;
+  @include media($medium-screen-up) {
+    width: 15%;
+  }
+}
+
+.projects {
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ margin: -$small-spacing;
+}
+
+.horizontal {
+  height: 270px;
+  @include media($medium-screen-up) {
+    height: 500px;
+  }
+}
+
+.vertical {
+  height: 600px;
+  @include media($medium-screen-up) {
+    height: 870px;
+  }
+}
+
+#penultimo {
+  background-image: url("../img/penultimo.jpg");
+}
+
+#ximoan {
+  background-image: url("../img/ximoan.jpg");
+}
+
+#gravity {
+  background-image: url("../img/gravity.jpg");
+}
+
+#penumbra {
+  background-image: url("../img/penumbra.jpg");
+}

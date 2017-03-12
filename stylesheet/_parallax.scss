@@ -1,0 +1,53 @@
+.container {
+  position: relative;
+  min-width: 100%;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.scene {
+  padding: 0;
+  margin: 0;
+}
+
+.layer {
+  width: 100%;
+
+  #l1 {
+    border: none;
+    background-image: url(../img/SaloneLudicoLogo-small-l1.svg);
+    width: 100%;
+    height: 568px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center center;
+    @include media($medium-screen-up) {
+      background-image: url(../img/SaloneLudicoLogo-large-l1.svg);
+    }
+  }
+  #l2 {
+    border: none;
+    background-image: url(../img/SaloneLudicoLogo-small-l2.svg);
+    width: 100%;
+    height: 568px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center center;
+    @include media($medium-screen-up) {
+      background-image: url(../img/SaloneLudicoLogo-large-l2.svg);
+    }
+  }
+  #l3 {
+    border: none;
+    background-image: url(../img/SaloneLudicoLogo-small-l3.svg);
+    width: 100%;
+    height: 568px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center center;
+    @include media($medium-screen-up) {
+      background-image: url(../img/SaloneLudicoLogo-large-l3.svg);
+    }
+  }
+}

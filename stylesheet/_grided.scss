@@ -1,0 +1,40 @@
+body {
+  //background-color: #1F1F1F;
+  background-color: #000000;
+  color: #E2E2E2;
+  font-size: $base-font-size;
+}
+
+.main {
+  @include outer-container();
+  padding: $base-spacing;
+  @include media($medium-screen-up) {
+    margin: $base-spacing * 1.2;
+  }
+}
+
+.headline {
+  font-family: $heading-font-family;
+  font-size: 2em;
+  font-weight: lighter;
+  text-align: center;
+}
+
+p {
+ margin-bottom: $base-spacing;
+}
+
+footer {
+  @include outer-container;
+  padding: $base-spacing 0;
+  @include media($medium-screen-up) {
+    margin: $small-spacing;
+  }
+}
+
+.credits {
+  font-size: $base-font-size / 1.5;
+  @include media($medium-screen-up) {
+    font-size: $base-font-size;
+  }
+}
