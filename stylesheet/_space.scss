@@ -1,0 +1,28 @@
+.main {
+  @include outer-container;
+    padding: $base-spacing;
+  @include media($medium-screen-up) {
+    margin: $base-spacing * 1.2;
+  }
+  @include media($large-screen-up) {
+    margin: $small-spacing $base-spacing * 4;
+  }
+}
+
+.to-twitter {
+  margin-bottom: $small-spacing;
+  @include media($large-screen-up) {
+    margin-bottom: $base-spacing;
+  }
+}
+
+footer {
+  @include outer-container();
+  padding: $base-spacing;
+  @include media($medium-screen-up) {
+    margin: $base-spacing * 1.2;
+  }
+  @include media($large-screen-up) {
+    margin: $small-spacing $base-spacing * 4;
+  }
+}

@@ -1,15 +1,20 @@
 .head-credential {
+  display: flex;
+  align-items: center;
   padding: $small-spacing;
 }
 
 .logo-head {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding-bottom: $small-spacing;
-  width: 20%;
+  padding-right: $small-spacing;
+  width: 25%;
+  height: 25%;
   @include media($medium-screen-up) {
+    padding-right: $base-spacing;
     width: 15%;
+  }
+  @include media($large-screen-up) {
+    padding-right: $base-spacing;
+    width: 12%;
   }
 }
 
@@ -25,27 +30,33 @@
   @include media($medium-screen-up) {
     height: 500px;
   }
+  @include media($large-screen-up) {
+    height: 850px;
+  }
 }
 
 .vertical {
   height: 600px;
   @include media($medium-screen-up) {
-    height: 870px;
+    height: 1000px;
+  }
+  @include media($large-screen-up) {
+    height: 1700px;
   }
 }
 
 #penultimo {
-  background-image: url("../img/penultimo.jpg");
+  background-image: url("../img/201702_MD_Salone-Ludico_Penultimo©HEAD_MichelGiesbrecht_005.jpg");
 }
 
 #ximoan {
-  background-image: url("../img/ximoan.jpg");
-}
-
-#gravity {
-  background-image: url("../img/gravity.jpg");
+  background-image: url("../img/201702_MD_Salone-Ludico_Ximoan©HEAD_MichelGiesbrecht_001.jpg");
 }
 
 #penumbra {
-  background-image: url("../img/penumbra.jpg");
+  background-image: url("../img/201702_MD_Salone-Ludico_Penumbra©HEAD_MichelGiesbrecht_002.jpg");
+}
+
+#gravity {
+  background-image: url("../img/201702_MD_Salone-Ludico_Gravity©HEAD_MichelGiesbrecht_001.jpg");
 }

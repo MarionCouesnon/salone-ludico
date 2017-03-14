@@ -8,27 +8,53 @@
     </ul>
   </div>
 </div>
+
 <div class="main">
   <h1 class="headline">Designed distractions that coerce us into playful and shared forms of interaction</h1>
 </div>
+
 <div class="teaser-img-section">
   <div class="projects horizontal" id="penultimo">
   </div>
 </div>
+
 <div class="main">
   <div class="text">
-    <h3 class="hashtags">#saloneludico<br>#SalonedelMobile<br>#Milano</h3>
+    <h1 class="title">Salone internazionale del Mobile di Milano<br>Brera Design District, from 4 to 9 April 2017</h1>
     <p>Our “Salone” invites visitors to discover twelve projects conceived as ludic antidotes to a world filled with screens. Designed distractions that coerce us into playful and shared forms of interaction. Everyone plays. Electronic. Analog. Social. Play is a form of connection. Social platforms feign connecting us, but in the end they just leave us in limbo. Inversely, play is superficial by design, while secretly inviting us into a deeper understanding of each other and of our own limits.</p>
 
     <p>Designed and developed by the Media Design Master of the –HEAD Genève within an identity designed by students of Visual Communication, the Salone Ludico invites visitors to explore the nature of play. Projects range in scope and scale from robotic mixologists and domotic hi-fi to infinite rooms where space itself becomes the play station. For the more adventurous, an underground club proposes a redefinition of the seedy games room with updated parlour games of strategy and chance.</p>
   </div>
+
+  <div class="to-twitter">
+    <a href="https://twitter.com/search?f=tweets&q=%23saloneludico&src=typd" class="hashtags">#saloneludico</a>
+    <a href="https://twitter.com/search?f=tweets&q=SalonedelMobile&src=typd" class="hashtags">#SalonedelMobile</a>
+    <a href="https://twitter.com/search?f=tweets&q=Milano&src=typd" class="hashtags">#Milano</a>
+  </div>
 </div>
+
 <div class="teaser-img-section">
-  <div class="projects vertical" id="gravity">
+  <div class="projects vertical" id="ximoan">
   </div>
   <div class="projects horizontal" id="penumbra">
   </div>
-  <div class="projects vertical" id="ximoan">
+  <div class="projects vertical" id="gravity">
+  </div>
+</div>
+
+<div class="main">
+  <div class="information">
+    <h2 class="title">Opening  Tuesday 4 April, 18:00–21:00</h2>
+    <p>Exhibition
+    Tuesday 4 to Sunday 9 April 2017, 11:00–20:00<br>
+    Press Preview Monday 3 April, 14:00-16:00
+    <br>
+    Brera Design District
+    c/o Mimmo Scognamiglio
+    Artecontemporanea<br>
+    Via Goito 7, 20121 Milano
+    M2 Moscova/Lanza M3 Turati
+    Bus 43, 61, 94</p>
   </div>
 </div>
 <?php include 'footer.php';?>
