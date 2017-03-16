@@ -1,28 +1,94 @@
-.main {
-  @include outer-container;
-    padding: $base-spacing;
+.baseline {
+  margin-bottom: $base-spacing;
   @include media($medium-screen-up) {
-    margin: $base-spacing * 1.2;
+    margin-bottom: $base-spacing * 2;
   }
   @include media($large-screen-up) {
-    margin: $small-spacing $base-spacing * 4;
+    padding: 0 $base-spacing * 3;
+    margin-top: $base-spacing;
+  }
+}
+
+.main {
+  @include outer-container;
+    padding: 0 $base-spacing;
+  @include media($medium-screen-up) {
+    padding: 0 $base-spacing * 2;
+  }
+  @include media($large-screen-up) {
+    padding: 0 $base-spacing * 3;
+  }
+}
+
+.text {
+  margin: $base-spacing 0;
+  @include media($medium-screen-up) {
+    margin: $base-spacing * 4 0 $base-spacing * 2;
+  }
+}
+
+.text-wrapper {
+  @include outer-container;
+  @include media($medium-screen-up) {
+    display: flex;
   }
 }
 
 .to-twitter {
   margin-bottom: $small-spacing;
+  @include media($medium-screen-up) {
+    @include span-columns(1);
+    margin-bottom: 0;
+  }
   @include media($large-screen-up) {
-    margin-bottom: $base-spacing;
+    @include span-columns(1);
+  }
+}
+
+.text-container {
+  @include media($medium-screen-up) {
+    @include span-columns(11);
+    @include shift(1 of 11);
+  }
+  @include media($large-screen-up) {
+    @include span-columns(7);
+  }
+}
+
+.subject {
+  @include media($large-screen-up) {
+    @include span-columns(6);
+  }
+}
+
+.information {
+  margin: 0 0 $base-spacing;
+  @include media($medium-screen-up) {
+    display : flex;
+  }
+}
+
+.info-container {
+  @include media($medium-screen-up) {
+    @include span-columns(4);
   }
 }
 
 footer {
   @include outer-container();
-  padding: $base-spacing;
+  margin: $small-spacing 0 $base-spacing;
   @include media($medium-screen-up) {
-    margin: $base-spacing * 1.2;
+    margin: $base-spacing 0 $base-spacing * 2;
   }
   @include media($large-screen-up) {
-    margin: $small-spacing $base-spacing * 4;
+    margin: $base-spacing * 2 0 $base-spacing * 4;
+  }
+}
+
+.head-credential {
+  display: flex;
+  align-items: center;
+  @include media($medium-screen-up) {
+    display: block;
   }
 }

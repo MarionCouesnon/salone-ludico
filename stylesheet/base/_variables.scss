@@ -1,12 +1,4 @@
 // Typography
-@font-face {
-  font-family: 'PxGroteskRegular';
-  src: url("../../font/PxGrotesk-Regular.otf") format("otf");
-
-  font-family: 'PxGrotesk-Light';
-  src: url("../../font/PxGroteskRegular-Light.otf") format("otf");
-}
-
 $base-font-family: 'PxGroteskRegular', $helvetica;
 $heading-font-family: 'PxGrotesk-Light', $base-font-family;
 
