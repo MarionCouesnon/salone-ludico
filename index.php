@@ -10,7 +10,7 @@
 </div>
 
 <div class="main baseline">
-  <h1 class="headline">Designed distractions that coerce us into playful and shared forms of interaction</h1>
+  <h1 class="headline">Designed distractions to coerce us into playful and shared forms of interaction</h1>
 </div>
 
 <div class="teaser-img-section">
