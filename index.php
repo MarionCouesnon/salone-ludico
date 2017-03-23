@@ -24,8 +24,8 @@
     <div class="text-wrapper">
       <div class="to-twitter">
         <a href="https://twitter.com/search?f=tweets&q=%23saloneludico&src=typd" class="hashtags">#saloneludico</a>
-        <a href="https://twitter.com/search?f=tweets&q=SalonedelMobile&src=typd" class="hashtags">#SalonedelMobile</a>
-        <a href="https://twitter.com/search?f=tweets&q=Milano&src=typd" class="hashtags">#Milano</a>
+        <a href="https://twitter.com/search?q=%23fuorisalone2017&src=typd" class="hashtags">#fuorisalone2017</a>
+        <a href="https://twitter.com/search?q=%23breradesigndistrict&src=typd" class="hashtags">#breradesigndistrict</a>
       </div>
       <div class="text-container">
       <p class="subject">Our “Salone” invites visitors to discover twelve projects conceived as ludic antidotes to a world filled with screens. Designed distractions that coerce us into playful and shared forms of interaction. Everyone plays. Electronic. Analog. Social. Play is a form of connection. Social platforms feign connecting us, but in the end they just leave us in limbo. Inversely, play is superficial by design, while secretly inviting us into a deeper understanding of each other and of our own limits.</p>
