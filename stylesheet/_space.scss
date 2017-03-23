@@ -20,14 +20,14 @@
   }
 }
 
-.text {
+.presentation {
   margin: $base-spacing 0;
   @include media($medium-screen-up) {
     margin: $base-spacing * 4 0 $base-spacing * 2;
   }
 }
 
-.text-wrapper {
+.presentation-wrapper {
   @include outer-container;
   @include media($medium-screen-up) {
     display: flex;
@@ -45,7 +45,7 @@
   }
 }
 
-.text-container {
+.subject-container {
   @include media($medium-screen-up) {
     @include span-columns(11);
     @include shift(1 of 11);
@@ -61,8 +61,11 @@
   }
 }
 
-.information {
+.exhibition-information {
   margin: 0 0 $base-spacing;
+}
+
+.info-wrapper {
   @include media($medium-screen-up) {
     display : flex;
   }

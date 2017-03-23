@@ -263,22 +263,22 @@ html {
     .main {
       padding: 0 4.5em; } }
 
-.text {
+.presentation {
   margin: 1.5em 0; }
   @media screen and (min-width: 600px) {
-    .text {
+    .presentation {
       margin: 6em 0 3em; } }
 
-.text-wrapper {
+.presentation-wrapper {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto; }
-  .text-wrapper::after {
+  .presentation-wrapper::after {
     clear: both;
     content: "";
     display: table; }
   @media screen and (min-width: 600px) {
-    .text-wrapper {
+    .presentation-wrapper {
       display: flex; } }
 
 .to-twitter {
@@ -302,21 +302,21 @@ html {
         margin-right: 0; } }
 
 @media screen and (min-width: 600px) {
-  .text-container {
+  .subject-container {
     float: left;
     display: block;
     margin-right: 7.42297%;
     width: 287.9902%;
     margin-left: 9.32523%; }
-    .text-container:last-child {
+    .subject-container:last-child {
       margin-right: 0; } }
 @media screen and (min-width: 900px) {
-  .text-container {
+  .subject-container {
     float: left;
     display: block;
     margin-right: 3.57866%;
     width: 87.05267%; }
-    .text-container:last-child {
+    .subject-container:last-child {
       margin-right: 0; } }
 
 @media screen and (min-width: 900px) {
@@ -328,11 +328,12 @@ html {
     .subject:last-child {
       margin-right: 0; } }
 
-.information {
+.exhibition-information {
   margin: 0 0 1.5em; }
-  @media screen and (min-width: 600px) {
-    .information {
-      display: flex; } }
+
+@media screen and (min-width: 600px) {
+  .info-wrapper {
+    display: flex; } }
 
 @media screen and (min-width: 600px) {
   .info-container {
@@ -484,5 +485,19 @@ h3 {
 
 #gravity {
   background-image: url("../img/201702_MD_Salone-Ludico_Gravity_HEAD_MichelGiesbrecht_001.jpg"); }
+
+.video-wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  /* 16:9 */
+  padding-top: 25px;
+  height: 0; }
+
+.video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
 
 /*# sourceMappingURL=style.css.map */
