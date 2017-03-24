@@ -45,7 +45,16 @@
   }
 }
 
-.subject-container {
+.project-wrapper {
+  @include media($medium-screen-up) {
+    margin-bottom: $small-spacing;
+  }
+  @include media($large-screen-up) {
+    margin-bottom: $base-spacing;
+  }
+}
+
+.text-container {
   @include media($medium-screen-up) {
     @include span-columns(11);
     @include shift(1 of 11);
@@ -55,7 +64,7 @@
   }
 }
 
-.subject {
+.text {
   @include media($large-screen-up) {
     @include span-columns(6);
   }
