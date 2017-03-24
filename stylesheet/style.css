@@ -351,6 +351,10 @@ html {
     .info-container:last-child {
       margin-right: 0; } }
 
+@media screen and (min-width: 600px) {
+  .side-project {
+    display: flex; } }
+
 footer {
   max-width: 1200px;
   margin-left: auto;
@@ -436,7 +440,8 @@ p {
       font-size: 1.5em; } }
 
 .project-title {
-  margin: 0; }
+  margin-bottom: 0;
+  margin-top: 0.75em; }
 
 .credits {
   font-size: 0.66667em;

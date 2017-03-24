@@ -86,6 +86,12 @@
   }
 }
 
+.side-project {
+  @include media($medium-screen-up) {
+    display: flex;
+  }
+}
+
 footer {
   @include outer-container();
   margin: $small-spacing 0 $base-spacing;
