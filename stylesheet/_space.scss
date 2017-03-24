@@ -1,14 +1,3 @@
-.baseline {
-  margin-bottom: $base-spacing;
-  @include media($medium-screen-up) {
-    margin-bottom: $base-spacing * 2;
-  }
-  @include media($large-screen-up) {
-    padding: 0 $base-spacing * 3;
-    margin-top: $base-spacing;
-  }
-}
-
 .main {
   @include outer-container;
     padding: 0 $base-spacing;
@@ -20,49 +9,44 @@
   }
 }
 
-.text {
+.presentation {
   margin: $base-spacing 0;
   @include media($medium-screen-up) {
     margin: $base-spacing * 4 0 $base-spacing * 2;
   }
 }
 
-.text-wrapper {
-  @include outer-container;
+.presentation-wrapper {
   @include media($medium-screen-up) {
     display: flex;
   }
 }
 
 .to-twitter {
+  padding-right: $base-spacing * 3;
   margin-bottom: $small-spacing;
+}
+
+.project-wrapper {
   @include media($medium-screen-up) {
-    @include span-columns(1);
-    margin-bottom: 0;
+    margin-bottom: $base-spacing;
   }
   @include media($large-screen-up) {
-    @include span-columns(1);
+    margin-bottom: $base-spacing * 2;
   }
 }
 
-.text-container {
-  @include media($medium-screen-up) {
-    @include span-columns(11);
-    @include shift(1 of 11);
-  }
-  @include media($large-screen-up) {
-    @include span-columns(7);
-  }
-}
-
-.subject {
+.text {
   @include media($large-screen-up) {
     @include span-columns(6);
   }
 }
 
-.information {
+.exhibition-information {
   margin: 0 0 $base-spacing;
+}
+
+.info-wrapper {
   @include media($medium-screen-up) {
     display : flex;
   }
@@ -71,6 +55,32 @@
 .info-container {
   @include media($medium-screen-up) {
     @include span-columns(4);
+  }
+}
+
+.side-project {
+  @include media($medium-screen-up) {
+    display: flex;
+  }
+}
+
+.side-project-wrapper {
+  @include media($medium-screen-up) {
+    @include span-columns(6);
+  }
+}
+
+.side-presentation-wrapper {
+  @include media($medium-screen-up) {
+    display: flex;
+  }
+}
+
+.side-to-twitter {
+  margin-bottom: $small-spacing;
+
+  @include media($medium-screen-up) {
+    padding-right: $base-spacing;
   }
 }
 
@@ -86,9 +96,56 @@ footer {
 }
 
 .head-credential {
-  display: flex;
-  align-items: center;
   @include media($medium-screen-up) {
-    display: block;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  @include media($large-screen-up) {
+    justify-content: space-between;
+    flex-wrap: nowrap;
+  }
+}
+
+.direction-credits {
+  @include media($medium-screen-up) {
+    display: flex;
+  }
+}
+
+.direction-list-wrapper {
+  @include media($medium-screen-up) {
+  }
+}
+
+li {
+  margin-bottom: $base-spacing;
+  @include media($medium-screen-up) {
+    @include span-columns(3);
+  }
+}
+
+.additionnal-wrapper {
+  @include media($medium-screen-up) {
+    width: 100%;
+  }
+  @include media($large-screen-up) {
+    @include span-columns(2);
+  }
+}
+
+.social-networks {
+  @include media($medium-screen-up) {
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+    margin: $base-spacing * 2 0;
+  }
+}
+
+.social-logo-container {
+  display: flex;
+  justify-content: center;
+  @include media($medium-screen-up) {
+    justify-content: flex-start;
   }
 }

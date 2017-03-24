@@ -302,6 +302,16 @@ html {
         margin-right: 0; } }
 
 @media screen and (min-width: 600px) {
+<<<<<<< 3c5ea7a766ae97c180a868debf024a76de1f2c25
+=======
+  .project-wrapper {
+    margin-bottom: 0.75em; } }
+@media screen and (min-width: 900px) {
+  .project-wrapper {
+    margin-bottom: 1.5em; } }
+
+@media screen and (min-width: 600px) {
+>>>>>>> implemented raw text and img + layout adjustments
   .text-container {
     float: left;
     display: block;
@@ -320,12 +330,12 @@ html {
       margin-right: 0; } }
 
 @media screen and (min-width: 900px) {
-  .subject {
+  .text {
     float: left;
     display: block;
     margin-right: 3.57866%;
     width: 74.10533%; }
-    .subject:last-child {
+    .text:last-child {
       margin-right: 0; } }
 
 .information {
@@ -384,6 +394,16 @@ body {
     .headline {
       font-size: 3em; } }
 
+h3 {
+  font-weight: normal;
+  font-size: 1.25em; }
+  @media screen and (min-width: 600px) {
+    h3 {
+      font-size: 1.75em; } }
+  @media screen and (min-width: 900px) {
+    h3 {
+      font-size: 2em; } }
+
 .title {
   font-family: "PxGrotesk-Light", "PxGroteskRegular", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
   font-weight: lighter;
@@ -396,15 +416,15 @@ body {
     .title {
       font-size: 2.5em; } }
 
-.hashtags {
+.links {
   display: block;
   font-weight: normal;
   font-size: 0.8em; }
   @media screen and (min-width: 600px) {
-    .hashtags {
+    .links {
       font-size: 1.15em; } }
   @media screen and (min-width: 900px) {
-    .hashtags {
+    .links {
       font-size: 1.25em; } }
 
 p {
@@ -417,15 +437,8 @@ p {
     p {
       font-size: 1.5em; } }
 
-h3 {
-  font-weight: normal;
-  font-size: 1.25em; }
-  @media screen and (min-width: 600px) {
-    h3 {
-      font-size: 1.75em; } }
-  @media screen and (min-width: 900px) {
-    h3 {
-      font-size: 2em; } }
+.project-title {
+  margin: 0; }
 
 .credits {
   font-size: 0.66667em;
@@ -449,11 +462,8 @@ h3 {
   .img-head {
     width: 12%; } }
 
-.projects {
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  margin: -0.75em; }
+.full-img {
+  width: 100%; }
 
 .horizontal {
   height: 220px; }
