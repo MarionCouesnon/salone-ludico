@@ -16,38 +16,38 @@
 
   #l1 {
     border: none;
-    background-image: url(../img/SaloneLudicoLogo-small-l1.svg);
+    background-image: url(../images/SaloneLudicoLogo-small-l1.svg);
     width: 100%;
     height: 568px;
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center center;
     @include media($medium-screen-up) {
-      background-image: url(../img/SaloneLudicoLogo-large-l1.svg);
+      background-image: url(../images/SaloneLudicoLogo-large-l1.svg);
     }
   }
   #l2 {
     border: none;
-    background-image: url(../img/SaloneLudicoLogo-small-l2.svg);
+    background-image: url(../images/SaloneLudicoLogo-small-l2.svg);
     width: 100%;
     height: 568px;
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center center;
     @include media($medium-screen-up) {
-      background-image: url(../img/SaloneLudicoLogo-large-l2.svg);
+      background-image: url(../images/SaloneLudicoLogo-large-l2.svg);
     }
   }
   #l3 {
     border: none;
-    background-image: url(../img/SaloneLudicoLogo-small-l3.svg);
+    background-image: url(../images/SaloneLudicoLogo-small-l3.svg);
     width: 100%;
     height: 568px;
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center center;
     @include media($medium-screen-up) {
-      background-image: url(../img/SaloneLudicoLogo-large-l3.svg);
+      background-image: url(../images/SaloneLudicoLogo-large-l3.svg);
     }
   }
 }
