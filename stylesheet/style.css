@@ -269,62 +269,20 @@ html {
     .presentation {
       margin: 6em 0 3em; } }
 
-.presentation-wrapper {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto; }
-  .presentation-wrapper::after {
-    clear: both;
-    content: "";
-    display: table; }
-  @media screen and (min-width: 600px) {
-    .presentation-wrapper {
-      display: flex; } }
+@media screen and (min-width: 600px) {
+  .presentation-wrapper {
+    display: flex; } }
 
 .to-twitter {
+  padding-right: 4.5em;
   margin-bottom: 0.75em; }
-  @media screen and (min-width: 600px) {
-    .to-twitter {
-      float: left;
-      display: block;
-      margin-right: 7.42297%;
-      width: 19.43277%;
-      margin-bottom: 0; }
-      .to-twitter:last-child {
-        margin-right: 0; } }
-  @media screen and (min-width: 900px) {
-    .to-twitter {
-      float: left;
-      display: block;
-      margin-right: 3.57866%;
-      width: 9.36867%; }
-      .to-twitter:last-child {
-        margin-right: 0; } }
 
 @media screen and (min-width: 600px) {
-  .project-wrapper {
-    margin-bottom: 0.75em; } }
-@media screen and (min-width: 900px) {
   .project-wrapper {
     margin-bottom: 1.5em; } }
-
-@media screen and (min-width: 600px) {
-  .text-container {
-    float: left;
-    display: block;
-    margin-right: 7.42297%;
-    width: 287.9902%;
-    margin-left: 9.32523%; }
-    .text-container:last-child {
-      margin-right: 0; } }
 @media screen and (min-width: 900px) {
-  .text-container {
-    float: left;
-    display: block;
-    margin-right: 3.57866%;
-    width: 87.05267%; }
-    .text-container:last-child {
-      margin-right: 0; } }
+  .project-wrapper {
+    margin-bottom: 3em; } }
 
 @media screen and (min-width: 900px) {
   .text {
@@ -354,6 +312,25 @@ html {
 @media screen and (min-width: 600px) {
   .side-project {
     display: flex; } }
+
+@media screen and (min-width: 600px) {
+  .side-project-wrapper {
+    float: left;
+    display: block;
+    margin-right: 7.42297%;
+    width: 153.71149%; }
+    .side-project-wrapper:last-child {
+      margin-right: 0; } }
+
+@media screen and (min-width: 600px) {
+  .side-presentation-wrapper {
+    display: flex; } }
+
+.side-to-twitter {
+  margin-bottom: 0.75em; }
+  @media screen and (min-width: 600px) {
+    .side-to-twitter {
+      padding-right: 1.5em; } }
 
 footer {
   max-width: 1200px;
@@ -418,6 +395,13 @@ h3 {
     .title {
       font-size: 2.5em; } }
 
+@media screen and (min-width: 600px) {
+  .alt-title {
+    font-size: 1.25em; } }
+@media screen and (min-width: 900px) {
+  .alt-title {
+    font-size: 1.5em; } }
+
 .links {
   display: block;
   font-weight: normal;
@@ -429,6 +413,13 @@ h3 {
     .links {
       font-size: 1.25em; } }
 
+@media screen and (min-width: 600px) {
+  .alt-links {
+    font-size: 0.75em; } }
+@media screen and (min-width: 900px) {
+  .alt-links {
+    font-size: 1em; } }
+
 p {
   margin-bottom: 1.5em;
   font-size: 1em; }
@@ -438,6 +429,13 @@ p {
   @media screen and (min-width: 900px) {
     p {
       font-size: 1.5em; } }
+
+@media screen and (min-width: 600px) {
+  .alt-text {
+    font-size: 1em; } }
+@media screen and (min-width: 900px) {
+  .alt-text {
+    font-size: 1.25em; } }
 
 .project-title {
   margin-bottom: 0;

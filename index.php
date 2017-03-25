@@ -263,42 +263,42 @@
     </div>
 
     <div class="side-project">
-      <div class="project-wrapper">
+      <div class="side-project-wrapper">
         <!--Img coming soon
         <div class="img-wrapper">
           <img src="http://fakeimg.pl/250x100/" class="full-img"></img>
         </div>
         -->
-        <h3 class="project-title">Visual Identity</h3>
-        <p class="links">By <a href="http://www.behance.net/emilieexco">Emilie Excoffier</a>, <a href="http://www.romaingraille.portfoliobox.net">Romain Graille</a>, <a href="http://www.dhcv.ch">David Héritier</a> and <a href="http://lebocalgraphique.fr/">Bastien Seon</a></p>
-        <div class="presentation-wrapper">
-          <div class="to-twitter">
-            <a href="https://twitter.com/search?q=%23typography&src=typd" class="links">#typography</a>
-            <a href="https://twitter.com/search?q=%23legibility&src=typd" class="links">#legibility</a>
-            <a href="https://twitter.com/search?q=%23opticalart&src=typd" class="links">#opticalart</a>
+        <h3 class="project-title alt-title">Visual Identity</h3>
+        <p class="links alt-links">By <a href="http://www.behance.net/emilieexco">Emilie Excoffier</a>, <a href="http://www.romaingraille.portfoliobox.net">Romain Graille</a>, <a href="http://www.dhcv.ch">David Héritier</a> and <a href="http://lebocalgraphique.fr/">Bastien Seon</a></p>
+        <div class="side-presentation-wrapper">
+          <div class="side-to-twitter">
+            <a href="https://twitter.com/search?q=%23typography&src=typd" class="links alt-links">#typography</a>
+            <a href="https://twitter.com/search?q=%23legibility&src=typd" class="links alt-links">#legibility</a>
+            <a href="https://twitter.com/search?q=%23opticalart&src=typd" class="links alt-links">#opticalart</a>
           </div>
-          <div class="text-container">
-            <p class="text">A modular, dynamic typographic system punctuates the exhibition, adapting to various surfaces, contexts and media: light beams mapped onto a physical structure, outdoor signage, t-shirts, flyers, interactive website.</p>
+          <div class="side-text-container">
+            <p class="text alt-text">A modular, dynamic typographic system punctuates the exhibition, adapting to various surfaces, contexts and media: light beams mapped onto a physical structure, outdoor signage, t-shirts, flyers, interactive website.</p>
           </div>
         </div>
       </div>
 
-      <div class="project-wrapper">
+      <div class="side-project-wrapper">
         <!--Img coming soon
         <div class="img-wrapper">
           <img src="http://fakeimg.pl/250x100/" class="full-img"></img>
         </div>
         -->
-        <h3 class="project-title">Ludico Mobile</h3>
-        <p class="links">By Mai Li, Nini Zhang, with Pascal Berger and Laurent Bolli</p>
-        <div class="presentation-wrapper">
-          <div class="to-twitter">
-            <a href="https://twitter.com/search?q=%23modular&src=typd" class="links">#modular</a>
-            <a href="https://twitter.com/search?q=%23gametable&src=typd" class="links">#gametable</a>
-            <a href="https://twitter.com/search?q=%23aluminiumprofile&src=typd" class="links">#aluminiumprofile</a>
+        <h3 class="project-title alt-title">Ludico Mobile</h3>
+        <p class="links alt-links">By Mai Li, Nini Zhang, with Pascal Berger and Laurent Bolli</p>
+        <div class="side-presentation-wrapper">
+          <div class="side-to-twitter">
+            <a href="https://twitter.com/search?q=%23modular&src=typd" class="links alt-links">#modular</a>
+            <a href="https://twitter.com/search?q=%23gametable&src=typd" class="links alt-links">#gametable</a>
+            <a href="https://twitter.com/search?q=%23aluminiumprofile&src=typd" class="links alt-links">#aluminiumprofile</a>
           </div>
-          <div class="text-container">
-            <p class="text">An adaptation of the classic “game table” popular in homes, casinos, and bars — updated with contemporary modular materials.</p>
+          <div class="side-text-container">
+            <p class="text alt-text">An adaptation of the classic “game table” popular in homes, casinos, and bars — updated with contemporary modular materials.</p>
           </div>
         </div>
       </div>

@@ -28,39 +28,22 @@
 }
 
 .presentation-wrapper {
-  @include outer-container;
   @include media($medium-screen-up) {
     display: flex;
   }
 }
 
 .to-twitter {
+  padding-right: $base-spacing * 3;
   margin-bottom: $small-spacing;
-  @include media($medium-screen-up) {
-    @include span-columns(1);
-    margin-bottom: 0;
-  }
-  @include media($large-screen-up) {
-    @include span-columns(1);
-  }
 }
 
 .project-wrapper {
   @include media($medium-screen-up) {
-    margin-bottom: $small-spacing;
-  }
-  @include media($large-screen-up) {
     margin-bottom: $base-spacing;
   }
-}
-
-.text-container {
-  @include media($medium-screen-up) {
-    @include span-columns(11);
-    @include shift(1 of 11);
-  }
   @include media($large-screen-up) {
-    @include span-columns(7);
+    margin-bottom: $base-spacing * 2;
   }
 }
 
@@ -89,6 +72,25 @@
 .side-project {
   @include media($medium-screen-up) {
     display: flex;
+  }
+}
+
+.side-project-wrapper {
+  @include media($medium-screen-up) {
+    @include span-columns(6);
+  }
+}
+
+.side-presentation-wrapper {
+  @include media($medium-screen-up) {
+    display: flex;
+  }
+}
+
+.side-to-twitter {
+  margin-bottom: $small-spacing;
+  @include media($medium-screen-up) {
+    padding-right: $base-spacing;
   }
 }
 
