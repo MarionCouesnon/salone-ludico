@@ -1,0 +1,1 @@
+"use strict";var scene=document.getElementById("scene"),parallax=new Parallax(scene);parallax.scalar(0,50);
