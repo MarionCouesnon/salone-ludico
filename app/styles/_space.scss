@@ -20,14 +20,14 @@
   }
 }
 
-.text {
+.presentation {
   margin: $base-spacing 0;
   @include media($medium-screen-up) {
     margin: $base-spacing * 4 0 $base-spacing * 2;
   }
 }
 
-.text-wrapper {
+.presentation-wrapper {
   @include outer-container;
   @include media($medium-screen-up) {
     display: flex;
@@ -45,6 +45,15 @@
   }
 }
 
+.project-wrapper {
+  @include media($medium-screen-up) {
+    margin-bottom: $small-spacing;
+  }
+  @include media($large-screen-up) {
+    margin-bottom: $base-spacing;
+  }
+}
+
 .text-container {
   @include media($medium-screen-up) {
     @include span-columns(11);
@@ -55,14 +64,17 @@
   }
 }
 
-.subject {
+.text {
   @include media($large-screen-up) {
     @include span-columns(6);
   }
 }
 
-.information {
+.exhibition-information {
   margin: 0 0 $base-spacing;
+}
+
+.info-wrapper {
   @include media($medium-screen-up) {
     display : flex;
   }

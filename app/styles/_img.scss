@@ -13,15 +13,8 @@
   }
 }
 
-.projects {
- background-position: center center;
- background-repeat: no-repeat;
- background-size: cover;
- margin: -$small-spacing;
-  @include media($medium-screen-up) {
-  }
-  @include media($large-screen-up) {
-  }
+.full-img {
+  width: 100%;
 }
 
 .horizontal {
