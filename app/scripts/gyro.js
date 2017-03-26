@@ -1,7 +1,4 @@
-
 var deviceOrientationData ={alpha:0,beta:0,gamma:0};//init with 0 as defaults
-
-
 
 window.addEventListener('deviceorientation', function(eventData) {
   // The compass direction - will return a value between 0 and 360
