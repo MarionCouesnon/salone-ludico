@@ -80,3 +80,25 @@ p {
     font-size: $base-font-size;
   }
 }
+<<<<<<< 2e2530c8e594032d35cd56977ce66deffc58f88d
+=======
+
+h4 {
+  margin: 0;
+  font-weight: normal;
+  font-size: $base-font-size * 1.25;
+}
+
+.as-li {
+  font-size: 1em;
+}
+
+.hashtag-section {
+  text-align: center;
+  margin-bottom: $small-spacing;
+  @include media($medium-screen-up) {
+    text-align: left;
+    margin-bottom: 0;
+  }
+}
+>>>>>>> change credit layout
