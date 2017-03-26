@@ -89,6 +89,7 @@
 
 .side-to-twitter {
   margin-bottom: $small-spacing;
+
   @include media($medium-screen-up) {
     padding-right: $base-spacing;
   }
@@ -107,8 +108,28 @@ footer {
 
 .head-credential {
   display: flex;
-  align-items: center;
+}
+
+.direction-credits {
   @include media($medium-screen-up) {
-    display: block;
+    @include span-columns(3);
   }
+}
+
+li {
+  margin-bottom: $base-spacing;
+}
+
+.social-networks {
+}
+
+.social-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: $base-spacing * 2 0;
+}
+
+.social-logo-container {
+  display: flex;
 }

@@ -1,15 +1,19 @@
 .logo-head {
-  padding-right: $small-spacing;
-  width: 30%;
+  width: 100%;
+}
+
+.social {
+  width: 7%;
+  margin-right: 0.5em;
 }
 
 .img-head {
+  float: right;
   @include media($medium-screen-up) {
-    padding-bottom: $small-spacing;
     width: 15%;
   }
   @include media($large-screen-up) {
-    width: 12%;
+    width: 30%;
   }
 }
 

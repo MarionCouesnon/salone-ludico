@@ -290,7 +290,7 @@
         </div>
         -->
         <h3 class="project-title alt-title">Ludico Mobile</h3>
-        <p class="links alt-links">By Mai Li, Nini Zhang, with Pascal Berger and Laurent Bolli</p>
+        <p class="links alt-links">By Mai Li, Nini Zhang with Pascal Berger, designed by Laurent Bolli</p>
         <div class="side-presentation-wrapper">
           <div class="side-to-twitter">
             <a href="https://twitter.com/search?q=%23modular&src=typd" class="links alt-links">#modular</a>

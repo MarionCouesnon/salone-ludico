@@ -103,11 +103,21 @@ p {
 
 .credits {
   font-size: $base-font-size / 1.5;
-  margin : 0;
+  text-align: center;
   @include media($medium-screen-up) {
     font-size: $base-font-size /1.25;
   }
   @include media($large-screen-up) {
     font-size: $base-font-size;
   }
+}
+
+h4 {
+  margin: 0;
+  font-weight: normal;
+  font-size: $base-font-size * 1.25;
+}
+
+.as-li {
+  font-size: 1em;
 }
