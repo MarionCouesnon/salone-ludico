@@ -29,8 +29,8 @@
 				<p class="as-li">Alexandre Burdin, Frederic Butor-Blamont, Claudio Cicchini, Robert Favre, Pierre-Alain Giesser, Sébastien Pitteloud, Xavier Plantevin, Daniel Sciboz, Alexandre Simian, Sergio Streun, Nicolas Wagnières, Mathias Zieba</p>
 			</div>
 		</div>
-		<div class="social-wrapper">
-			<div class="social-networks">
+		<div class="social-networks">
+			<div class="social-wrapper">
 				<div class="social-logo-container">
 					<a href="https://twitter.com/headmediadesign" class="social" target="_blank">
 						<img src="img/twitter-logo.png" alt="logo twitter">

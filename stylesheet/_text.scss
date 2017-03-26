@@ -15,6 +15,7 @@ body {
   }
   @include media($large-screen-up) {
     font-size: $base-font-size * 3;
+      margin-top: $base-spacing * 2;
   }
 }
 
