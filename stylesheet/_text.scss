@@ -122,3 +122,12 @@ h4 {
 .as-li {
   font-size: 1em;
 }
+
+.hashtag-section {
+  text-align: center;
+  margin-bottom: $small-spacing;
+  @include media($medium-screen-up) {
+    text-align: left;
+    margin-bottom: 0;
+  }
+}

@@ -1,19 +1,31 @@
 .logo-head {
   width: 100%;
+  text-align: center;
 }
 
 .social {
-  width: 7%;
-  margin-right: 0.5em;
+  width: 18%;
+  margin-right: 0.35em;
+
+  @include media($medium-screen-up) {
+    width: 10%;
+    margin-right: 0.25em;
+  }
+  @include media($large-screen-up) {
+    width: 7%;
+    margin-right: 0.5em;
+  }
 }
 
 .img-head {
-  float: right;
+  max-width: 25%;
+  margin: $small-spacing 0;
   @include media($medium-screen-up) {
-    width: 15%;
+    float: right;
+    max-width: 65%;
   }
   @include media($large-screen-up) {
-    width: 30%;
+    max-width: 30%;
   }
 }
 

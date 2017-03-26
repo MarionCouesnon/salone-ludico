@@ -88,11 +88,9 @@
     </div>
 
     <div class="project-wrapper">
-      <img src="img/201702_MD_Salone-Ludico_KBPS_HEAD_MichelGiesbrecht_001.jpg" class="full-img"></img>
-      <!--Video coming soon
       <div class="video-wrapper">
-        <iframe src="https://player.vimeo.com/video/209578365?byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
-      </div>-->
+        <iframe src="https://player.vimeo.com/video/210164088?byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+      </div>
       <h3 class="project-title">KBPS</h3>
       <p class="links">By <a href="http://cargocollective.com/etienne3000">Étienne Ndiaye</a></p>
       <div class="presentation-wrapper">
