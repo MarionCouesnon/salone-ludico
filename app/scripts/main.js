@@ -7,5 +7,5 @@ $(document).ready(function () {
   $scene.parallax('updateLayers');
 
   // for the lulz
-  console.log("💩 is ready!");
+  console.log('💩 is ready!');
 });
