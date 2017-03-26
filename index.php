@@ -38,9 +38,7 @@
     <h2 class="title">Projects</h2>
 
     <div class="project-wrapper">
-      <div class="img-wrapper">
-        <img src="img/201702_MD_Salone-Ludico_Gravity_HEAD_MichelGiesbrecht_001.jpg" class="full-img"></img>
-      </div>
+      <img src="img/201702_MD_Salone-Ludico_Gravity_HEAD_MichelGiesbrecht_alt.jpg" class="full-img"></img>
       <h3 class="project-title">Gravity</h3>
       <p class="links">By Sébastien Beureux, <a href="http://www.jessicafriedling.com">Jessica Friedling</a>, <a href="http://www.charleshenrihayoz.ch/">Charles-Henri Hayoz</a> and <a href="http://vincentdevevey.com">Vincent de Vevey</a>, adapted from <a href="http://jeremielasnier.com/PadPad">PadPad by Jérémie Lasnier</a></p>
       <div class="presentation-wrapper">
@@ -74,9 +72,7 @@
     </div>
 
     <div class="project-wrapper">
-      <div class="img-wrapper">
-        <img src="img/201702_MD_Salone-Ludico_Massives_HEAD_MichelGiesbrecht_005.jpg" class="full-img"></img>
-      </div>
+      <img src="img/201702_MD_Salone-Ludico_Massives_HEAD_MichelGiesbrecht_005.jpg" class="full-img"></img>
       <h3 class="project-title">Massive</h3>
       <p class="links">By <a href="http://patrickdonaldson.ch/">Patrick Arthur Donaldson</a> in collaboration with <a href="http://ideasquare.web.cern.ch">IdeaSquare, CERN</a></p>
       <div class="presentation-wrapper">
@@ -92,9 +88,7 @@
     </div>
 
     <div class="project-wrapper">
-      <div class="img-wrapper">
-        <img src="img/201702_MD_Salone-Ludico_KBPS_HEAD_MichelGiesbrecht_001.jpg" class="full-img"></img>
-      </div>
+      <img src="img/201702_MD_Salone-Ludico_KBPS_HEAD_MichelGiesbrecht_001.jpg" class="full-img"></img>
       <!--Video coming soon
       <div class="video-wrapper">
         <iframe src="https://player.vimeo.com/video/209578365?byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
@@ -114,9 +108,7 @@
     </div>
 
     <div class="project-wrapper">
-      <div class="img-wrapper">
-        <img src="img/201702_MD_Salone-Ludico_BloodBank_HEAD_MichelGiesbrecht_001.jpg" class="full-img"></img>
-      </div>
+      <img src="img/201702_MD_Salone-Ludico_BloodBank_HEAD_MichelGiesbrecht_001.jpg" class="full-img"></img>
       <h3 class="project-title">BloodBank</h3>
       <p class="links">By Sébastien Beureux, Marianna Czwojdrak, <a href="http://beautifulreal.com">Laurent Monnet</a>, <a href="http://vincentdevevey.com">Vincent de Vevey</a></p>
       <div class="presentation-wrapper">
@@ -150,9 +142,7 @@
     </div>
 
     <div class="project-wrapper">
-      <div class="img-wrapper">
-        <img src="img/201702_MD_Salone-Ludico_Murmures_HEAD_MichelGiesbrecht_005.jpg" class="full-img"></img>
-      </div>
+      <img src="img/201702_MD_Salone-Ludico_Murmures_HEAD_MichelGiesbrecht_005.jpg" class="full-img"></img>
       <h3 class="project-title">murmures</h3>
       <p class="links">By <a href="http://www.benoitrenaudin.com/">Benoît Renaudin</a></p>
       <div class="presentation-wrapper">
@@ -168,9 +158,7 @@
     </div>
 
     <div class="project-wrapper">
-      <div class="img-wrapper">
-        <img src="img/201702_MD_Salone-Ludico_Ximoan_HEAD_MichelGiesbrecht_003.jpg" class="full-img"></img>
-      </div>
+      <img src="img/201702_MD_Salone-Ludico_Ximoan_HEAD_MichelGiesbrecht_003.jpg" class="full-img"></img>
       <!--Video coming soon
       <div class="video-wrapper">
         <iframe src="https://player.vimeo.com/video/209437425?byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
@@ -191,9 +179,7 @@
     </div>
 
     <div class="project-wrapper">
-      <div class="img-wrapper">
-        <img src="img/201702_MD_Salone-Ludico_DarkLight_HEAD_MichelGiesbrecht_004.jpg" class="full-img"></img>
-      </div>
+      <img src="img/201702_MD_Salone-Ludico_DarkLight_HEAD_MichelGiesbrecht_004.jpg" class="full-img"></img>
       <h3 class="project-title">DarkLight</h3>
       <p class="links">By Sarah Bourquin, <a href="http://www.jessicafriedling.com">Jessica Friedling</a>, <a href="http://www.valeriepierrehumbert.com">Valérie Pierrehumbert</a> and Eun-Sun Lee</p>
       <div class="presentation-wrapper">
@@ -227,9 +213,7 @@
     </div>
 
     <div class="project-wrapper">
-      <div class="img-wrapper">
-        <img src="img/201702_MD_Salone-Ludico_Oniri_HEAD_MichelGiesbrecht_001.jpg" class="full-img"></img>
-      </div>
+      <img src="img/201702_MD_Salone-Ludico_Oniri_HEAD_MichelGiesbrecht_001.jpg" class="full-img"></img>
       <h3 class="project-title">Oniri Islands</h3>
       <p class="links">By <a href="http://www.almostpicture.net">Marion Bareil</a> and <a href="http://tourmaline-studio.com">Tourmaline Studio</a></p>
       <div class="presentation-wrapper">
@@ -245,9 +229,7 @@
     </div>
 
     <div class="project-wrapper">
-      <div class="img-wrapper">
-        <img src="img/democrapsy-game.jpg" class="full-img"></img>
-      </div>
+      <img src="img/democrapsy-game.jpg" class="full-img"></img>
       <h3 class="project-title">Democrapcy</h3>
       <p class="links">By <a href="http://yoanndouillet.com/">Yoann Douillet</a>, <a href="http://melissapisler.ch">Mélissa Pisler</a>, <a href="http://www.israelviadest.com">Israel Viadest</a>, <a href="http://www.almostpicture.net">Marion Bareil</a> and <a href="https://twitter.com/leaschonfelder">Léa Schönfelder</a></p>
       <div class="presentation-wrapper">
@@ -265,9 +247,7 @@
     <div class="side-project">
       <div class="side-project-wrapper">
         <!--Img coming soon
-        <div class="img-wrapper">
           <img src="http://fakeimg.pl/250x100/" class="full-img"></img>
-        </div>
         -->
         <h3 class="project-title alt-title">Visual Identity</h3>
         <p class="links alt-links">By <a href="http://www.behance.net/emilieexco">Emilie Excoffier</a>, <a href="http://www.romaingraille.portfoliobox.net">Romain Graille</a>, <a href="http://www.dhcv.ch">David Héritier</a> and <a href="http://lebocalgraphique.fr/">Bastien Seon</a></p>
@@ -285,9 +265,7 @@
 
       <div class="side-project-wrapper">
         <!--Img coming soon
-        <div class="img-wrapper">
           <img src="http://fakeimg.pl/250x100/" class="full-img"></img>
-        </div>
         -->
         <h3 class="project-title alt-title">Ludico Mobile</h3>
         <p class="links alt-links">By Mai Li, Nini Zhang with Pascal Berger, designed by Laurent Bolli</p>
