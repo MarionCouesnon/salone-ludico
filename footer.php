@@ -5,31 +5,31 @@
 				<ol class="direction-credits">
 					<li class=""><h4>Director HEAD – Genève</h4>
 					Jean-Pierre Greff</li>
-					<li class=""><h4>Department Direction, Master Media Design</h4>
-					Nicolas Nova, Gordan Savičić</li>
+					<li class=""><h4>Department Direction, <a href="https://www.hesge.ch/head/formations-recherche/master-media-design">Master Media Design</a></h4>
+					<a href="http://www.nicolasnova.net">Nicolas Nova</a>, <a href="http://www.yugo.at/processing/">Gordan Savičić</a></li>
 					<li class=""><h4>Project Direction</h4>
-					Douglas Edric Stanley</li>
+					<a href="http://www.abstractmachine.net/blog/">Douglas Edric Stanley</a></li>
 				</ol>
 				<ol class="direction-credits">
 					<li><h4>Project Assistant</h4>
-					Laura Couto Rosado</li>
+					<a href="http://lcr.digital/">Laura Couto Rosado</a></li>
 					<li><h4>Interaction Design Direction</h4>
-					Étienne Mineur</li>
+					<a href="http://volumique.com/v2/">Étienne Mineur</a></li>
 					<li><h4>Industrial Design Direction</h4>
-					Laurent Bolli</li>
+					<a href="http://www.bbstudio.com/">Laurent Bolli</a></li>
 				</ol>
 				<ol class="direction-credits">
 					<li><h4>Visual Design Direction</h4>
-					Anette Lenz</li>
+					<a href="https://www.facebook.com/atelierAnetteLenz/">Anette Lenz</a></li>
 					<li><h4>Technical Development Direction</h4>
-					Pierre Rossel</li>
+					<a href="https://www.hesge.ch/head/en/directory/pierre-rossel">Pierre Rossel</a></li>
 					<li><h4>Scenography Direction</h4>
 					Pascal Berger</li>
 				</ol>
 			</div>
 			<div class="additionnal-wrapper">
 				<h4>Additional Production</h4>
-				<p class="as-li">Alexandre Burdin, Frederic Butor-Blamont, Claudio Cicchini, Robert Favre, Pierre-Alain Giesser, Sébastien Pitteloud, Xavier Plantevin, Daniel Sciboz, Alexandre Simian, Sergio Streun, Nicolas Wagnières, Mathias Zieba</p>
+				<p class="as-li"><a href="http://www.preorderetsoldout.com">Alexandre Burdin</a>, Frederic Butor-Blamont, Claudio Cicchini, Robert Favre, Pierre-Alain Giesser, Sébastien Pitteloud, Xavier Plantevin, Daniel Sciboz, Alexandre Simian, Sergio Streun, Nicolas Wagnières, Mathias Zieba</p>
 			</div>
 		</div>
 		<div class="social-networks">
