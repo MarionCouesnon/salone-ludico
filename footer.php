@@ -6,12 +6,9 @@
 
 	</footer>
 	<!-- Scripts -->
-<script src="js/deploy/parallax.js"></script>
-<script>
-	// Pretty simple huh?
-	var scene = document.getElementById('scene');
-	var parallax = new Parallax(scene);
-	parallax.scalar(0, 50);
-</script>
+	<script src="js/vendor/jquery-3.2.0.min.js"></script>
+	<script src="js/deploy/jquery.parallax.min.js"></script>
+	<script src="js/main.js"></script>
+
 </body>
 </html>
