@@ -156,12 +156,9 @@
     </div>
 
     <div class="project-wrapper">
-      <img src="img/201702_MD_Salone-Ludico_Ximoan_HEAD_MichelGiesbrecht_003.jpg" class="full-img"></img>
-      <!--Video coming soon
       <div class="video-wrapper">
-        <iframe src="https://player.vimeo.com/video/209437425?byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
+        <iframe src="https://player.vimeo.com/video/210307366?byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen class="video"></iframe>
       </div>
-      -->
       <h3 class="project-title">Ximoan</h3>
       <p class="links">By <a href="http://patrickdonaldson.ch/">Patrick Donaldson, <a href="http://yoanndouillet.com">Yoann Douillet</a>, Raphaël Henocq and <a href="http://beautifulreal.com">Laurent Monnet</a></p>
       <div class="presentation-wrapper">
