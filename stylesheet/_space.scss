@@ -112,11 +112,6 @@ footer {
   }
 }
 
-.direction-list-wrapper {
-  @include media($medium-screen-up) {
-  }
-}
-
 li {
   margin-bottom: $base-spacing;
   @include media($medium-screen-up) {

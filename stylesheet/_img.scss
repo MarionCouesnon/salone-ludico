@@ -32,39 +32,3 @@
 .full-img {
   width: 100%;
 }
-
-.horizontal {
-  height: 220px;
-  @include media($medium-screen-up) {
-    height: 520px;
-  }
-  @include media($large-screen-up) {
-    height: 860px;
-  }
-}
-
-.vertical {
-  height: 470px;
-  @include media($medium-screen-up) {
-    height: 1160px;
-  }
-  @include media($large-screen-up) {
-    height: 1930px;
-  }
-}
-
-#penultimo {
-  background-image: url("../img/201702_MD_Salone-Ludico_Penultimo_HEAD_MichelGiesbrecht_005.jpg");
-}
-
-#ximoan {
-  background-image: url("../img/201702_MD_Salone-Ludico_Ximoan_HEAD_MichelGiesbrecht_001.jpg");
-}
-
-#penumbra {
-  background-image: url("../img/201702_MD_Salone-Ludico_Penumbra_HEAD_MichelGiesbrecht_002.jpg");
-}
-
-#gravity {
-  background-image: url("../img/201702_MD_Salone-Ludico_Gravity_HEAD_MichelGiesbrecht_001.jpg");
-}

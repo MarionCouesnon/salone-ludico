@@ -63,6 +63,5 @@
 	<script src="js/vendor/jquery-3.2.0.min.js"></script>
 	<script src="js/deploy/jquery.parallax.min.js"></script>
 	<script src="js/main.js"></script>
-
 </body>
 </html>

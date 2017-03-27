@@ -38,7 +38,7 @@
     <h2 class="title">Projects</h2>
 
     <div class="project-wrapper">
-      <img src="img/201702_MD_Salone-Ludico_Gravity_HEAD_MichelGiesbrecht_alt.jpg" class="full-img"></img>
+      <img src="img/201702_MD_Salone-Ludico_Gravity_HEAD_MichelGiesbrecht_cut.jpg" class="full-img"></img>
       <h3 class="project-title">Gravity</h3>
       <p class="links">By Sébastien Beureux, <a href="http://www.jessicafriedling.com">Jessica Friedling</a>, <a href="http://www.charleshenrihayoz.ch/">Charles-Henri Hayoz</a> and <a href="http://vincentdevevey.com">Vincent de Vevey</a>, adapted from <a href="http://jeremielasnier.com/PadPad">PadPad by Jérémie Lasnier</a></p>
       <div class="presentation-wrapper">

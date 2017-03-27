@@ -237,16 +237,6 @@ html {
       .layer #l3 {
         background-image: url(../img/SaloneLudicoLogo-large-l3.svg); } }
 
-.baseline {
-  margin-bottom: 1.5em; }
-  @media screen and (min-width: 600px) {
-    .baseline {
-      margin-bottom: 3em; } }
-  @media screen and (min-width: 900px) {
-    .baseline {
-      padding: 0 4.5em;
-      margin-top: 1.5em; } }
-
 .main {
   max-width: 1200px;
   margin-left: auto;
@@ -263,71 +253,26 @@ html {
     .main {
       padding: 0 4.5em; } }
 
-.text {
+.presentation {
   margin: 1.5em 0; }
   @media screen and (min-width: 600px) {
-    .text {
+    .presentation {
       margin: 6em 0 3em; } }
 
-.text-wrapper {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto; }
-  .text-wrapper::after {
-    clear: both;
-    content: "";
-    display: table; }
-  @media screen and (min-width: 600px) {
-    .text-wrapper {
-      display: flex; } }
+@media screen and (min-width: 600px) {
+  .presentation-wrapper {
+    display: flex; } }
 
 .to-twitter {
+  padding-right: 4.5em;
   margin-bottom: 0.75em; }
-  @media screen and (min-width: 600px) {
-    .to-twitter {
-      float: left;
-      display: block;
-      margin-right: 7.42297%;
-      width: 19.43277%;
-      margin-bottom: 0; }
-      .to-twitter:last-child {
-        margin-right: 0; } }
-  @media screen and (min-width: 900px) {
-    .to-twitter {
-      float: left;
-      display: block;
-      margin-right: 3.57866%;
-      width: 9.36867%; }
-      .to-twitter:last-child {
-        margin-right: 0; } }
 
 @media screen and (min-width: 600px) {
-<<<<<<< 3c5ea7a766ae97c180a868debf024a76de1f2c25
-=======
-  .project-wrapper {
-    margin-bottom: 0.75em; } }
-@media screen and (min-width: 900px) {
   .project-wrapper {
     margin-bottom: 1.5em; } }
-
-@media screen and (min-width: 600px) {
->>>>>>> implemented raw text and img + layout adjustments
-  .text-container {
-    float: left;
-    display: block;
-    margin-right: 7.42297%;
-    width: 287.9902%;
-    margin-left: 9.32523%; }
-    .text-container:last-child {
-      margin-right: 0; } }
 @media screen and (min-width: 900px) {
-  .text-container {
-    float: left;
-    display: block;
-    margin-right: 3.57866%;
-    width: 87.05267%; }
-    .text-container:last-child {
-      margin-right: 0; } }
+  .project-wrapper {
+    margin-bottom: 3em; } }
 
 @media screen and (min-width: 900px) {
   .text {
@@ -338,11 +283,12 @@ html {
     .text:last-child {
       margin-right: 0; } }
 
-.information {
+.exhibition-information {
   margin: 0 0 1.5em; }
-  @media screen and (min-width: 600px) {
-    .information {
-      display: flex; } }
+
+@media screen and (min-width: 600px) {
+  .info-wrapper {
+    display: flex; } }
 
 @media screen and (min-width: 600px) {
   .info-container {
@@ -352,6 +298,29 @@ html {
     width: 100%; }
     .info-container:last-child {
       margin-right: 0; } }
+
+@media screen and (min-width: 600px) {
+  .side-project {
+    display: flex; } }
+
+@media screen and (min-width: 600px) {
+  .side-project-wrapper {
+    float: left;
+    display: block;
+    margin-right: 7.42297%;
+    width: 153.71149%; }
+    .side-project-wrapper:last-child {
+      margin-right: 0; } }
+
+@media screen and (min-width: 600px) {
+  .side-presentation-wrapper {
+    display: flex; } }
+
+.side-to-twitter {
+  margin-bottom: 0.75em; }
+  @media screen and (min-width: 600px) {
+    .side-to-twitter {
+      padding-right: 1.5em; } }
 
 footer {
   max-width: 1200px;
@@ -369,12 +338,55 @@ footer {
     footer {
       margin: 3em 0 6em; } }
 
-.head-credential {
-  display: flex;
-  align-items: center; }
+@media screen and (min-width: 600px) {
+  .head-credential {
+    display: flex;
+    flex-wrap: wrap; } }
+@media screen and (min-width: 900px) {
+  .head-credential {
+    justify-content: space-between;
+    flex-wrap: nowrap; } }
+
+@media screen and (min-width: 600px) {
+  .direction-credits {
+    display: flex; } }
+
+li {
+  margin-bottom: 1.5em; }
   @media screen and (min-width: 600px) {
-    .head-credential {
-      display: block; } }
+    li {
+      float: left;
+      display: block;
+      margin-right: 7.42297%;
+      width: 73.14426%; }
+      li:last-child {
+        margin-right: 0; } }
+
+@media screen and (min-width: 600px) {
+  .additionnal-wrapper {
+    width: 100%; } }
+@media screen and (min-width: 900px) {
+  .additionnal-wrapper {
+    float: left;
+    display: block;
+    margin-right: 3.57866%;
+    width: 22.316%; }
+    .additionnal-wrapper:last-child {
+      margin-right: 0; } }
+
+@media screen and (min-width: 600px) {
+  .social-networks {
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+    margin: 3em 0; } }
+
+.social-logo-container {
+  display: flex;
+  justify-content: center; }
+  @media screen and (min-width: 600px) {
+    .social-logo-container {
+      justify-content: flex-start; } }
 
 body {
   background-color: #000000;
@@ -437,8 +449,16 @@ p {
     p {
       font-size: 1.5em; } }
 
+@media screen and (min-width: 600px) {
+  .alt-text {
+    font-size: 1em; } }
+@media screen and (min-width: 900px) {
+  .alt-text {
+    font-size: 1.25em; } }
+
 .project-title {
-  margin: 0; }
+  margin-bottom: 0;
+  margin-top: 0.75em; }
 
 .credits {
   font-size: 0.66667em;
@@ -450,49 +470,64 @@ p {
     .credits {
       font-size: 1em; } }
 
-.logo-head {
-  padding-right: 0.75em;
-  width: 30%; }
+h4 {
+  margin: 0;
+  font-weight: normal;
+  font-size: 1.25em; }
 
-@media screen and (min-width: 600px) {
-  .img-head {
-    padding-bottom: 0.75em;
-    width: 15%; } }
-@media screen and (min-width: 900px) {
-  .img-head {
-    width: 12%; } }
+.as-li {
+  font-size: 1em; }
+
+.hashtag-section {
+  text-align: center;
+  margin-bottom: 0.75em; }
+  @media screen and (min-width: 600px) {
+    .hashtag-section {
+      text-align: left;
+      margin-bottom: 0; } }
+
+.logo-head {
+  width: 100%;
+  text-align: center; }
+
+.social {
+  width: 18%;
+  margin-right: 0.35em; }
+  @media screen and (min-width: 600px) {
+    .social {
+      width: 10%;
+      margin-right: 0.25em; } }
+  @media screen and (min-width: 900px) {
+    .social {
+      width: 7%;
+      margin-right: 0.5em; } }
+
+.img-head {
+  max-width: 25%;
+  margin: 0.75em 0; }
+  @media screen and (min-width: 600px) {
+    .img-head {
+      float: right;
+      max-width: 65%; } }
+  @media screen and (min-width: 900px) {
+    .img-head {
+      max-width: 30%; } }
 
 .full-img {
   width: 100%; }
 
-.horizontal {
-  height: 220px; }
-  @media screen and (min-width: 600px) {
-    .horizontal {
-      height: 520px; } }
-  @media screen and (min-width: 900px) {
-    .horizontal {
-      height: 860px; } }
+.video-wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  /* 16:9 */
+  padding-top: 25px;
+  height: 0; }
 
-.vertical {
-  height: 470px; }
-  @media screen and (min-width: 600px) {
-    .vertical {
-      height: 1160px; } }
-  @media screen and (min-width: 900px) {
-    .vertical {
-      height: 1930px; } }
-
-#penultimo {
-  background-image: url("../img/201702_MD_Salone-Ludico_Penultimo_HEAD_MichelGiesbrecht_005.jpg"); }
-
-#ximoan {
-  background-image: url("../img/201702_MD_Salone-Ludico_Ximoan_HEAD_MichelGiesbrecht_001.jpg"); }
-
-#penumbra {
-  background-image: url("../img/201702_MD_Salone-Ludico_Penumbra_HEAD_MichelGiesbrecht_002.jpg"); }
-
-#gravity {
-  background-image: url("../img/201702_MD_Salone-Ludico_Gravity_HEAD_MichelGiesbrecht_001.jpg"); }
+.video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
 
 /*# sourceMappingURL=style.css.map */
