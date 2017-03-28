@@ -492,27 +492,27 @@ h4 {
   text-align: center; }
 
 .social {
-  width: 18%;
-  margin-right: 0.35em; }
-  @media screen and (min-width: 600px) {
-    .social {
-      width: 10%;
-      margin-right: 0.25em; } }
-  @media screen and (min-width: 900px) {
-    .social {
-      width: 7%;
-      margin-right: 0.5em; } }
+  margin-right: 0.5em; }
 
 .img-head {
-  max-width: 25%;
+  max-width: 75px;
   margin: 0.75em 0; }
   @media screen and (min-width: 600px) {
     .img-head {
       float: right;
-      max-width: 65%; } }
+      max-width: 95px; } }
   @media screen and (min-width: 900px) {
     .img-head {
-      max-width: 30%; } }
+      max-width: 110px; } }
+
+.icon {
+  width: 50px; }
+  @media screen and (min-width: 600px) {
+    .icon {
+      width: 60px; } }
+  @media screen and (min-width: 900px) {
+    .icon {
+      width: 53px; } }
 
 .full-img {
   width: 100%; }

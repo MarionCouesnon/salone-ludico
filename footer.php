@@ -36,13 +36,13 @@
 			<div class="social-wrapper">
 				<div class="social-logo-container">
 					<a href="https://twitter.com/headmediadesign" class="social" target="_blank">
-						<img src="img/twitter-logo.png" alt="logo twitter">
+						<img src="img/twitter-logo.png" alt="logo twitter" class="icon">
 					</a>
 					<a href="https://vimeo.com/headmediadesign" class="social" target="_blank">
-						<img src="img/vimeo-logo.png" alt="logo vimeo">
+						<img src="img/vimeo-logo.png" alt="logo vimeo" class="icon">
 					</a>
 					<a href="https://www.instagram.com/headmediadesign/" class="social" target="_blank">
-						<img src="img/insta-logo.png" alt="logo instagram">
+						<img src="img/insta-logo.png" alt="logo instagram" class="icon">
 					</a>
 				</div>
 				<div class="hashtag-section">
