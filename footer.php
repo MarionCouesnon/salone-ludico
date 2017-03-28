@@ -16,7 +16,7 @@
 					<li><h4>Interaction Design Direction</h4>
 					<a href="http://volumique.com/v2/">Étienne Mineur</a></li>
 					<li><h4>Industrial Design Direction</h4>
-					<a href="http://www.bbstudio.com/">Laurent Bolli</a></li>
+					<a href="http://www.odoma.ch/">Laurent Bolli</a></li>
 				</ol>
 				<ol class="direction-credits">
 					<li><h4>Visual Design Direction</h4>
