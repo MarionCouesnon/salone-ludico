@@ -1,2 +1,4 @@
 font/*
 .DS_Store
+.sass-cache
+.sass-cache/*
