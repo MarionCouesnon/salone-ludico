@@ -100,7 +100,7 @@
           <a href="https://twitter.com/search?q=%23flashdrive&src=typd" class="links">#flashdrive</a>
         </div>
         <div class="text-container">
-          <p class="text">Situated somewhere in between home stereo, sound installation, jukebox and club system, KBPS offers an inhabitual multisensorial musical experience. Each USB key contains a music track, synchronised with a system that directly controls four electrical outlets. Each musical key contains its own experience of light, sound, and even air.</p>
+          <p class="text">Situated somewhere in between home stereo, installation, and club sound system, kbps offers an unusual way to listen to music at home. Each USB stick contains a music track in a specific file format  that directly controls four electrical outlets. Every flash drive uses domestic objects to create its own experience of light, sound, and even air.</p>
         </div>
       </div>
     </div>
