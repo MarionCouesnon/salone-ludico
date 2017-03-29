@@ -224,7 +224,7 @@
     </div>
 
     <div class="project-wrapper">
-      <img src="img/democrapsy-game.jpg" class="full-img"></img>
+      <img src="img/201702_MD_Salone-Democrapcy_HEAD_MichelGiesbrecht_004.jpg" class="full-img"></img>
       <h3 class="project-title">Democrapcy</h3>
       <p class="links">By <a href="http://yoanndouillet.com/">Yoann Douillet</a>, <a href="http://melissapisler.ch">Mélissa Pisler</a>, <a href="http://www.israelviadest.com">Israel Viadest</a>, <a href="http://www.almostpicture.net">Marion Bareil</a> and <a href="https://twitter.com/leaschonfelder">Léa Schönfelder</a></p>
       <div class="presentation-wrapper">
