@@ -241,9 +241,7 @@
 
     <div class="side-project">
       <div class="side-project-wrapper">
-        <!--Img coming soon
-          <img src="http://fakeimg.pl/250x100/" class="full-img"></img>
-        -->
+        <img src="img/201702_MD_Salone-Ludico_visual_identity_HEAD_MichelGiesbrech.jpg" class="full-img"></img>
         <h3 class="project-title alt-title">Visual Identity</h3>
         <p class="links alt-links">By <a href="http://www.behance.net/emilieexco">Emilie Excoffier</a>, <a href="http://www.romaingraille.portfoliobox.net">Romain Graille</a>, <a href="http://www.dhcv.ch">David Héritier</a> and <a href="http://lebocalgraphique.fr/">Bastien Seon</a></p>
         <div class="side-presentation-wrapper">
@@ -259,11 +257,9 @@
       </div>
 
       <div class="side-project-wrapper">
-        <!--Img coming soon
-          <img src="http://fakeimg.pl/250x100/" class="full-img"></img>
-        -->
+        <img src="img/201702_MD_Salone-Ludico_furniture_HEAD_MichelGiesbrech.jpg" class="full-img"></img>
         <h3 class="project-title alt-title">Ludico Mobile</h3>
-        <p class="links">By Mai Li, Nini Zhang with Pascal Berger, designed by Laurent Bolli</p>
+        <p class="links">By <a href="https://muziwanli.wixsite.com/limai">Mai Li</a>, Nini Zhang with Pascal Berger, designed by Laurent Bolli</p>
         <div class="side-presentation-wrapper">
           <div class="side-to-twitter">
             <a href="https://twitter.com/search?q=%23modular&src=typd" class="links">#modular</a>
